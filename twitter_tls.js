@@ -1,3 +1,6 @@
+// @NamasteHacker
+// 10/08/2024
+
 Java.perform(function() {
     let ResponseBody = Java.use("okhttp3.ResponseBody");
     let ByteArrayOutputStream = Java.use('java.io.ByteArrayOutputStream');
