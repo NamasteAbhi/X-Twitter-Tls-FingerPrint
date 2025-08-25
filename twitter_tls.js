@@ -1,4 +1,4 @@
-// @NamasteHacker
+// @NamasteCoder
 // 10/08/2024
 
 Java.perform(function() {
@@ -54,3 +54,4 @@ Java.perform(function() {
         return ByteArrayInputStream.$new(byteArray);
     };
 });
+
